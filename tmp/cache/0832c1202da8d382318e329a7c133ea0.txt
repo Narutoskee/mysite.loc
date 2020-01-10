@@ -1,0 +1,1 @@
+a:2:{s:4:"data";a:2:{i:15;a:5:{s:5:"title";s:14:"Новости";s:5:"alias";s:7:"novosti";s:9:"parent_id";s:1:"0";s:8:"keywords";s:4:"news";s:11:"description";s:25:"новости сайта";}i:16;a:5:{s:5:"title";s:16:"Контакты";s:5:"alias";s:8:"kontakty";s:9:"parent_id";s:1:"0";s:8:"keywords";s:8:"contacts";s:11:"description";s:16:"контакты";}}s:8:"end_time";i:1578683741;}
